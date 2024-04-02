@@ -1,0 +1,20 @@
+#nav{
+    height: 950px;
+}
+/* #carouselExampleIndicators{
+    height: auto;
+
+} */
+.carousel-inner{
+height: 650px;
+}
+
+
+.card{
+    height: 18rem;
+}
+.card1{
+    margin-right: 650px;
+    height: 18rem;
+    
+}
